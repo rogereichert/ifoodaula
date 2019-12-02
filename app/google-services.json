@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686063829466",
+    "firebase_url": "https://ifoodaula.firebaseio.com",
+    "project_id": "ifoodaula",
+    "storage_bucket": "ifoodaula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686063829466:android:6635e8afacbee46c6480e3",
+        "android_client_info": {
+          "package_name": "com.roger.ifoodaula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686063829466-9cqubi4gssi8qcoppshnchmmgqjv1fg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roger.ifoodaula",
+            "certificate_hash": "3312eb75c2d85f2bae6da8e1829d1022ddbe99fe"
+          }
+        },
+        {
+          "client_id": "686063829466-eh71p7pr0i5seepbr21kpudvg0tmk47t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDas-AlIwToQkcw81XPIOta-yPdlQghgLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686063829466-eh71p7pr0i5seepbr21kpudvg0tmk47t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
