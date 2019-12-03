@@ -176,3 +176,5 @@ public class AutentificacaoActivity extends AppCompatActivity {
         linearTipoUsuario = findViewById(R.id.linearTipoUsuario);
     }
 }
+
+//teste
